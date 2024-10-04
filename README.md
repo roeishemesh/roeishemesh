@@ -1,16 +1,20 @@
 ## Hi there 👋
+# Roei Shemesh
 
-<!--
-**roeishemesh/roeishemesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Ben-Gurion University of the Negev.  
+💻 Passionate about Python development, API integrations, and Telegram bot development.  
+🚀 Always learning and building new projects to expand my skills in software development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: Python, Java, SQL
+- **Technologies**: API Integrations, Telegram Bot Development, SQL Databases
+- **Concepts**: Data Structures, Algorithms, Object-Oriented Programming (OOP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Key Projects
+- **[Telegram Bot for Task Automation](https://github.com/roeishemesh/telegram-bot-project)**: Built a bot to automate daily reminders, integrated with multiple APIs.
+- **[Weather API Integration](https://github.com/roeishemesh/weather-api-project)**: Developed a Python project to fetch real-time weather data from an API.
+- **[Algorithm Practice](https://github.com/roeishemesh/algorithms-project)**: Solutions to common algorithmic challenges, showcasing problem-solving skills.
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/roeishemesh)
+- [Portfolio](https://github.com/roeishemesh)
