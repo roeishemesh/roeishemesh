@@ -16,5 +16,5 @@
 - **[Algorithm Practice](https://github.com/roeishemesh/algorithms-project)**: Solutions to common algorithmic challenges, showcasing problem-solving skills.
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/roeishemesh)
+- [LinkedIn](https://www.linkedin.com/in/roei-shemesh-72a316252/)
 - [Portfolio](https://github.com/roeishemesh)
