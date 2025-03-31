@@ -17,4 +17,3 @@
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/roei-shemesh-72a316252/)
-- [Portfolio](https://github.com/roeishemesh)
